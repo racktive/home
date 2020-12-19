@@ -8800,6 +8800,15 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
   border-radius: 12px;
   object-fit: cover;
 }
+.section__stories .swip__stories .feature_strories .item .img__nature_feed {
+  overflow: hidden;
+}
+.section__stories .swip__stories .feature_strories .item .img__nature_feed img {
+  height: 250px;
+  width: 100%;
+  border-radius: 12px;
+  object-fit: cover;
+}
 .section__stories .swip__stories .feature_strories .item .inf__txt {
   position: absolute;
   bottom: 1.875rem;
