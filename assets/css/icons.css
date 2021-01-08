@@ -3178,10 +3178,12 @@
     content: "\ed16";
   }
   .attachment_diagonal:before {
-    content: "\ed17";
+    font-family: FontAwesome;
+    content: "\f0c6";
   }
   .attachment:before {
-    content: "\ed18";
+    font-family: FontAwesome;
+    content: "\f0c6";
   }
   .blocked:before {
     content: "\ed19";
