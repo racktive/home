@@ -2241,7 +2241,7 @@ img {
   color: #0b2238 !important;
 }
 .active-dark .navbar .navbar-collapse .navbar-nav .nav-item .nav-link.selected {
-  color: #0b2238 !important;
+  color: #ffce53 !important;
 }
 .active-dark .navbar .navbar-collapse .navbar-nav .nav-item .nav-link:hover {
   color: #0b2238 !important;
@@ -8747,6 +8747,12 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
   background-color: #0b2238;
 }
 .section__stories .swip__topic .swipe_basic_topic .swiper-slide:nth-of-type(6) .item .ico__top {
+  background-color: #0b2238;
+}
+.section__stories .swip__topic .swipe_basic_topic .swiper-slide:nth-of-type(7) .item .ico__top {
+  background-color: #0b2238;
+}
+.section__stories .swip__topic .swipe_basic_topic .swiper-slide:nth-of-type(8) .item .ico__top {
   background-color: #0b2238;
 }
 .section__stories .swip__stories .feature_strories .title_sections {
