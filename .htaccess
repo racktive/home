@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^racktive\.id$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.racktive\.id$
+RewriteRule ^/?$ "https\:\/\/racktive\.id\/index\.html" [R=301,L]
+
